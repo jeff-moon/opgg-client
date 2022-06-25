@@ -1,0 +1,16 @@
+{
+  "name": "opgg-client",
+  "version": "0.0.1",
+  "description": "op.gg API client",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeffrey Moon",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "node-fetch": "^3.2.6"
+  }
+}
